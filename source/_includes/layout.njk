@@ -1,8 +1,11 @@
+---
+title: Locke Anthology Project
+---
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
-        <title>Locke Anthology Project</title>
+        <title>{{ title }}</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
        <!-- <link rel="stylesheet" type="text/css" href="webstyle.css" /> -->
@@ -11,7 +14,7 @@
     </head>
     <body>
 
-        <h1>Locke Anthology Project</h1>
+        <h1>{{ title }}</h1>
 
             <nav class="button">
                 <form action="index.html"><button class="Home">Home</button></form>
@@ -20,9 +23,7 @@
                 <form action="music.html"><button class="Music">Music</button></form>
             </nav>
     <main>
-     
-<p>This will be a remake of the Locke Anthology Project using 11ty</p>
-
+     {{ content | safe }}
      </main>
     </body>
 </html>
