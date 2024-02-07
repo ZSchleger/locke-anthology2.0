@@ -28,7 +28,11 @@
                 include-content-type="no" href="source/_includes/poems/{$filename}.html">
                 
                 <!--Your code goes here for processing the poems. -->
-                <xsl:apply-templates select="TEI"/>
+                
+                
+                <div>
+                    <xsl:apply-templates select="TEI"/>
+                </div>
               
                 
             </xsl:result-document>
