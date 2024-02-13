@@ -18,6 +18,8 @@
     "gh-pages": "^6.1.1"
   },
   "dependencies": {
-    "clean-css": "^5.3.3"
+    "clean-css": "^5.3.3",
+    "eleventy-plugin-static-jsx": "^1.0.8",
+    "static-jsx": "^1.0.1"
   }
 }

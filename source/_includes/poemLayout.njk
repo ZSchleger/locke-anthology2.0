@@ -1,8 +1,11 @@
+---
+title: Locke Anthology Project
+---
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
-        <title>Poems</title>
+        <title>{{ title }}</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="poemStyle.css">
@@ -12,7 +15,7 @@
     </head>
     <body>
 
-        <h1>Poems</h1>
+        <h1>{{ title }}</h1>
 
             <nav class="navbar">
             <ul>
@@ -24,18 +27,7 @@
             </ul>
             </nav>
     <main>
-     
-
-
-<script>
-  document.querySelectorAll('.toggle-poem').forEach(button => {
-    button.addEventListener('click', function() {
-      let author = this.getAttribute('data-author');
-      let poemsDiv = document.getElementById(author);
-      poemsDiv.style.display = poemsDiv.style.display === 'none' ? 'block' : 'none';
-    });
-  });
-</script>
+     {{ content | safe }}
      </main>
      <footer>
      <div class="footerLinks">

@@ -30,9 +30,9 @@
                 <!--Your code goes here for processing the poems. -->
                 
                 
-                <div>
+                <section id="{$filename ! replace(., '^.+?_','')}" class="{//titleStmt/author ! replace(., 'é', 'e')! replace(., ' ' ,'')}">
                     <xsl:apply-templates select="TEI"/>
-                </div>
+                </section>
               
                 
             </xsl:result-document>
