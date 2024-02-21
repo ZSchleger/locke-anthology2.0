@@ -27,15 +27,6 @@
      
 
 
-<script>
-  document.querySelectorAll('.toggle-poem').forEach(button => {
-    button.addEventListener('click', function() {
-      let author = this.getAttribute('data-author');
-      let poemsDiv = document.getElementById(author);
-      poemsDiv.style.display = poemsDiv.style.display === 'none' ? 'block' : 'none';
-    });
-  });
-</script>
      </main>
      <footer>
      <div class="footerLinks">
