@@ -5,54 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_includes/poemLayout.njk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_includes/poems.njk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/poemStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/poemData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/music.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/poems.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/poems/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleXSL.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/sampleXSL.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/layout.njk" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/layout.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_a_brown_girl_dead.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_a_brown_girl_dead.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_dream_variation.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_dream_variation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_enchantment.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_enchantment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_georgia_dusk.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_georgia_dusk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_minstrel_man.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_minstrel_man.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_our_land.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_our_land.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_she_of_the_dancing_feet_sings.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_she_of_the_dancing_feet_sings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_tableau.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_tableau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_the_day_breakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_the_day_breakers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_the_negro_speaks_of_rivers.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_the_negro_speaks_of_rivers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_the_riddle.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_the_riddle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_to_a_brown_boy.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_to_a_brown_boy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_to_a_brown_girl.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_to_a_brown_girl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/Q_tropics_in_new_york.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/Q_tropics_in_new_york.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_Russian_Cathedral.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_Russian_Cathedral.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_an_earth_song.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_an_earth_song.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_baptism.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_baptism.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_escape.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_escape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_fruit_of_the_flower.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_fruit_of_the_flower.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_harlem_wine.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_harlem_wine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_i_too.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_i_too.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_in_memory_of_colonel_charles_young.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_in_memory_of_colonel_charles_young.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_lady_lady.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_lady_lady.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_like_a_strong_tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_like_a_strong_tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_poem.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_poem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_song.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_song.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_song_of_the_son.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_song_of_the_son.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_the_black_finger.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_the_black_finger.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_the_creation.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_the_creation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_the_ordeal.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_the_ordeal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_white_houses.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_white_houses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_includes/poems/UM_youth.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poems/UM_youth.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/poems.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,32 +30,32 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2c3byb4NvnRtnJkslYVf6huRdCl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "18.18.2",
-    "javascript.nodejs.core.library.typings.version": "18.18.2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.18.2&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.18.2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,7 +65,9 @@
       <option name="presentableId" value="Default" />
       <updated>1707343464467</updated>
       <workItem from="1707343465506" duration="516000" />
-      <workItem from="1707848180485" duration="7406000" />
+      <workItem from="1707848180485" duration="12162000" />
+      <workItem from="1708536370488" duration="2477000" />
+      <workItem from="1708541237134" duration="5732000" />
     </task>
     <servers />
   </component>

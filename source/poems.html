@@ -1,5 +1,26 @@
 ---
-layout: poems.njk
+layout: poemLayout.njk
+title: Poems
 permalink: "poems.html"
 ---
+
+{% for author in colection.poemsByAuthor %}
+<button class="toggle-poem" data-author="{{ author | safe }}">{{ author }}</button>
+
+<div id="{{ author | safe }}" style="display: none;">
+    {% for poem in poems %}
+    {{ poem.templateContent | safe }}
+    {% endfor %}
+</div>
+{% endfor %}
+
+<script>
+    document.querySelectorAll('.toggle-poem').forEach(button => {
+        button.addEventListener('click', function() {
+            let author = this.getAttribute('data-author');
+            let poemsDiv = document.getElementById(author);
+            poemsDiv.style.display = poemsDiv.style.display === 'none' ? 'block' : 'none';
+        });
+    });
+</script>
 
