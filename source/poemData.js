@@ -24,7 +24,7 @@ async function extractPoemAttributes() {
         }
 
         console.log(poemAttributes);
-        return poemAttributes;
+        fs.writeFileSync('poemAttributes.json', JSON.stringify(poemAttributes, null, 2), 'utf-8');
     } catch (error) {
         console.error('Error reading poem files:', error);
     }
