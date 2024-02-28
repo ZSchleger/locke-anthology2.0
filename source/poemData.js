@@ -12,6 +12,7 @@ async function extractPoemAttributes() {
 
         for (const file of files) {
             const filePath = path.join(poemsDirectory, file);
+            console.log(filePath)
             const htmlContent = fs.readFileSync(filePath, 'utf-8');
             const dom = new JSDOM(htmlContent);
             const section = dom.window.document.querySelector('section');

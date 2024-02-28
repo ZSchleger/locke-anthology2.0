@@ -1,167 +1,167 @@
- [
+[
   {
     "title": "a_brown_girl_dead",
     "author": "CounteeCullen",
-    "filePath": "_includes//poems//Q_a_brown_girl_dead.html"
+    "filePath": "_includes/poems/Q_a_brown_girl_dead.html"
   },
   {
     "title": "dream_variation",
     "author": "LangstonHughes",
-    "filePath": "_includes//poems//Q_dream_variation.html"
+    "filePath": "_includes/poems/Q_dream_variation.html"
   },
   {
     "title": "enchantment",
     "author": "LewisAlexander",
-    "filePath": "_includes//poems//Q_enchantment.html"
+    "filePath": "_includes/poems/Q_enchantment.html"
   },
   {
     "title": "georgia_dusk",
     "author": "JeanToomer",
-    "filePath": "_includes//poems//Q_georgia_dusk.html"
+    "filePath": "_includes/poems/Q_georgia_dusk.html"
   },
   {
     "title": "minstrel_man",
     "author": "LangstonHughes",
-    "filePath": "_includes//poems//Q_minstrel_man.html"
+    "filePath": "_includes/poems/Q_minstrel_man.html"
   },
   {
     "title": "our_land",
     "author": "LangstonHughes",
-    "filePath": "_includes//poems//Q_our_land.html"
+    "filePath": "_includes/poems/Q_our_land.html"
   },
   {
     "title": "she_of_the_dancing_feet_sings",
     "author": "CounteeCullen",
-    "filePath": "_includes//poems//Q_she_of_the_dancing_feet_sings.html"
+    "filePath": "_includes/poems/Q_she_of_the_dancing_feet_sings.html"
   },
   {
     "title": "tableau",
     "author": "CounteeCullen",
-    "filePath": "_includes//poems//Q_tableau.html"
+    "filePath": "_includes/poems/Q_tableau.html"
   },
   {
     "title": "the_day_breakers",
     "author": "ArnaBontemps",
-    "filePath": "_includes//poems//Q_the_day_breakers.html"
+    "filePath": "_includes/poems/Q_the_day_breakers.html"
   },
   {
     "title": "the_negro_speaks_of_rivers",
     "author": "LangstonHughes",
-    "filePath": "_includes//poems//Q_the_negro_speaks_of_rivers.html"
+    "filePath": "_includes/poems/Q_the_negro_speaks_of_rivers.html"
   },
   {
     "title": "the_riddle",
     "author": "GeorgiaDouglasJohnson",
-    "filePath": "_includes//poems//Q_the_riddle.html"
+    "filePath": "_includes/poems/Q_the_riddle.html"
   },
   {
     "title": "to_a_brown_boy",
     "author": "CounteeCullen",
-    "filePath": "_includes//poems//Q_to_a_brown_boy.html"
+    "filePath": "_includes/poems/Q_to_a_brown_boy.html"
   },
   {
     "title": "to_a_brown_girl",
     "author": "CounteeCullen",
-    "filePath": "_includes//poems//Q_to_a_brown_girl.html"
+    "filePath": "_includes/poems/Q_to_a_brown_girl.html"
   },
   {
     "title": "tropics_in_new_york",
     "author": "ClaudeMcKay",
-    "filePath": "_includes//poems//Q_tropics_in_new_york.html"
-  },
-  {
-    "title": "an_earth_song",
-    "author": "LangstonHughes",
-    "filePath": "_includes//poems//UM_an_earth_song.html"
-  },
-  {
-    "title": "baptism",
-    "author": "ClaudeMcKay",
-    "filePath": "_includes//poems//UM_baptism.html"
-  },
-  {
-    "title": "escape",
-    "author": "GeorgiaDouglasJohnson",
-    "filePath": "_includes//poems//UM_escape.html"
-  },
-  {
-    "title": "fruit_of_the_flower",
-    "author": "CounteeCullen",
-    "filePath": "_includes//poems//UM_fruit_of_the_flower.html"
-  },
-  {
-    "title": "harlem_wine",
-    "author": "CounteeCullen",
-    "filePath": "_includes//poems//UM_harlem_wine.html"
-  },
-  {
-    "title": "in_memory_of_colonel_charles_young",
-    "author": "CounteeCullen",
-    "filePath": "_includes//poems//UM_in_memory_of_colonel_charles_young.html"
-  },
-  {
-    "title": "i_too",
-    "author": "LangstonHughes",
-    "filePath": "_includes//poems//UM_i_too.html"
-  },
-  {
-    "title": "lady_lady",
-    "author": "AnneSpencer",
-    "filePath": "_includes//poems//UM_lady_lady.html"
-  },
-  {
-    "title": "like_a_strong_tree",
-    "author": "ClaudeMcKay",
-    "filePath": "_includes//poems//UM_like_a_strong_tree.html"
-  },
-  {
-    "title": "poem",
-    "author": "LangstonHughes",
-    "filePath": "_includes//poems//UM_poem.html"
+    "filePath": "_includes/poems/Q_tropics_in_new_york.html"
   },
   {
     "title": "Russian_Cathedral",
     "author": "ClaudeMcKay",
-    "filePath": "_includes//poems//UM_Russian_Cathedral.html"
+    "filePath": "_includes/poems/UM_Russian_Cathedral.html"
+  },
+  {
+    "title": "an_earth_song",
+    "author": "LangstonHughes",
+    "filePath": "_includes/poems/UM_an_earth_song.html"
+  },
+  {
+    "title": "baptism",
+    "author": "ClaudeMcKay",
+    "filePath": "_includes/poems/UM_baptism.html"
+  },
+  {
+    "title": "escape",
+    "author": "GeorgiaDouglasJohnson",
+    "filePath": "_includes/poems/UM_escape.html"
+  },
+  {
+    "title": "fruit_of_the_flower",
+    "author": "CounteeCullen",
+    "filePath": "_includes/poems/UM_fruit_of_the_flower.html"
+  },
+  {
+    "title": "harlem_wine",
+    "author": "CounteeCullen",
+    "filePath": "_includes/poems/UM_harlem_wine.html"
+  },
+  {
+    "title": "i_too",
+    "author": "LangstonHughes",
+    "filePath": "_includes/poems/UM_i_too.html"
+  },
+  {
+    "title": "in_memory_of_colonel_charles_young",
+    "author": "CounteeCullen",
+    "filePath": "_includes/poems/UM_in_memory_of_colonel_charles_young.html"
+  },
+  {
+    "title": "lady_lady",
+    "author": "AnneSpencer",
+    "filePath": "_includes/poems/UM_lady_lady.html"
+  },
+  {
+    "title": "like_a_strong_tree",
+    "author": "ClaudeMcKay",
+    "filePath": "_includes/poems/UM_like_a_strong_tree.html"
+  },
+  {
+    "title": "poem",
+    "author": "LangstonHughes",
+    "filePath": "_includes/poems/UM_poem.html"
   },
   {
     "title": "song",
     "author": "LangstonHughes",
-    "filePath": "_includes//poems//UM_song.html"
+    "filePath": "_includes/poems/UM_song.html"
   },
   {
     "title": "song_of_the_son",
     "author": "JeanToomer",
-    "filePath": "_includes//poems//UM_song_of_the_son.html"
+    "filePath": "_includes/poems/UM_song_of_the_son.html"
   },
   {
     "title": "the_black_finger",
     "author": "AngelinaGrimke",
-    "filePath": "_includes//poems//UM_the_black_finger.html"
+    "filePath": "_includes/poems/UM_the_black_finger.html"
   },
   {
     "title": "the_creation",
     "author": "JamesWeldonJohnson",
-    "filePath": "_includes//poems//UM_the_creation.html"
+    "filePath": "_includes/poems/UM_the_creation.html"
   },
   {
     "title": "the_ordeal",
     "author": "GeorgiaDouglasJohnson",
-    "filePath": "_includes//poems//UM_the_ordeal.html"
+    "filePath": "_includes/poems/UM_the_ordeal.html"
   },
   {
     "title": "to_samuel_coleridge_taylor_upon_hearing",
     "author": "GeorgiaDouglasJohnson",
-    "filePath": "_includes//poems//UM_to_samuel_coleridge_taylor_upon_hearing.html"
+    "filePath": "_includes/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html"
   },
   {
     "title": "white_houses",
     "author": "ClaudeMcKay",
-    "filePath": "_includes//poems//UM_white_houses.html"
+    "filePath": "_includes/poems/UM_white_houses.html"
   },
   {
     "title": "youth",
     "author": "LangstonHughes",
-    "filePath": "_includes//poems//UM_youth.html"
+    "filePath": "_includes/poems/UM_youth.html"
   }
 ]
