@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+     <fileDesc>
+                 <titleStmt>
+                     <title>Listen to de lambs</title>
+                     <respStmt>
+                         <resp>Composed by: R. Nathaniel Dett</resp>
+                     </respStmt>
+                 </titleStmt>
+             </fileDesc>
+             <workList>
+                 <work>
+                     <title>Listen ot de lambs</title>
+                     <composer>
+                         <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND"
+                             >Johann Pachelbel</persName>
+                     </composer>
+                     <key pname="f" mode="major">F Major</key>
+                     <creation>Year of composition<date>1917</date> </creation>
+                 </work>
+             </workList>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv>
+                <score>
+                    <scoreDef>
+                        <staffGrp>
+                            <staffDef n="1" lines="2" clef.shape="G" key.sig="4f" key.mode="major" lines="5"/>
+                            <staffDef n="2" lines="2" clef.shape="G" key.sig="4f" key.mode="major" lines="5"/>
+                            <staffDef n="3" lines="2" clef.shape="F" key.sig="4f" key.mode="major" lines="5"/>
+                            <staffDef n="4" lines="2" clef.shape="F" key.sig="4f" key.mode="major" lines="5"/>
+                        </staffGrp>
+                    </scoreDef>
+                    <section>
+                        <measure n="1">
+                        <meter count="4" unit="4"/>
+                        <tempo place="above" mm="76" beatUnit="quarter">Original Tempo</tempo>
+                            <staff n="1">
+                                <layer n="1">
+                                    <rest dur="1"/>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="b" oct="4" dur="8"/>
+                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="f" oct="4" dur="8" tie="i"/>
+                                    <note pname="a" oct="4" dur="8" tie="t"/>
+                                </layer>
+                            </staff>
+                            <staff n="3">
+                              <layer n="1">
+                               <rest dur="1"/>
+                              </layer>
+                            </staff>
+                            <staff n="4">
+                            <layer n="1">
+                              <rest dur="1"/>
+                            </layer>
+                            </staff>
+                        </measure>
+
+            <measure n="2">
+                                    <meter count="3" unit="2"/>
+                                    <tempo place="above" mm="50" beatUnit="quarter">Slower</tempo>
+                                        <staff n="1">
+                                            <layer n="1">
+                                               <note pname="c" oct="5" dur="4" dots="1"/>
+                                               <note pname="c" oct="5" dur="8"/>
+                                               <note pname="b" oct="4" dur="2" tie="i"/>
+                                               <note pname="c" oct="5" dur="2"/>
+                                            </layer>
+                                        </staff>
+                                        <staff n="2">
+                                            <layer n="1">
+                                                <note pname="a" oct="4" dur="1"/>
+                                                <rest dur="4"/>
+                                                <note pname="c" oct="5" dur="4"/>
+                                            </layer>
+                                        </staff>
+                                        <staff n="3">
+                                          <layer n="1">
+                                           <note pname="e" oct="3" dur="4" tie="i"/>
+                                           <note pname="f" oct="3" dur="8" tie="t"/>
+                                           <note pname="f" oct="3" dur="8"/>
+                                           <note pname="f" oct="3" dur="2" tie="i"/>
+                                           <note pname="e" oct="3" dur="2" tie="t"/>
+                                          </layer>
+                                        </staff>
+                                        <staff n="4">
+                                        <layer n="1">
+                                          <note pname="a" oct="2" dur="4" dots="1"/>
+                                          <note pname="a" oct="2" dur="8"/>
+                                          <note pname="a" oct="2" dur="2"/>
+                                          <note pname="a" oct="2" dur="2"/>
+                                        </layer>
+                                        </staff>
+                                    </measure>
+                       <measure n="3">
+                       <meter count="4" unit="4"/>
+                       <tempo place="above" mm="78" beatUnit="quarter">First Tempo</tempo>
+                       <staff n="1">
+                       <layer n="1">
+                         <note pname="c" oct="5" dur="1"/>
+                       </layer>
+                       </staff>
+                       <staff n="2">
+                       <layer n="1">
+                       <note pname="c" oct="5" dur="8"/>
+                       <note pname="b" oct="4" dur="8"/>
+                       <note pname="c" oct="5" dur="8"/>
+                       <note pname="f" oct="4" dur="8" tie="i"/>
+                       <note pname="a" oct="4" dur="8" tie="t"/>
+                       </layer>
+                       </staff>
+                       <staff n="3">
+                       <layer n="1">
+                          <note pname="e" oct="3" dur="1"/>
+                       </layer>
+                       </staff>
+                       <staff n="4">
+                       <layer n="1">
+                         <note pname="a" oct="2" dur="1"/>
+                       </layer>
+                       </staff>
+                       </measure>
+
+                       <measure n="4">
+                            <meter count="3" unit="2"/>
+                            <tempo place="above" mm="55" beatUnit="quarter">Slower</tempo>
+                            <staff n="1">
+                            <layer n="1">
+                             <note pname="c" oct="5" dur="4" dots="1"/>
+                             <note pname="c" oct="5" dur="8"/>
+                             <note pname="b" oct="4" dur="2" tie="i"/>
+                             <note pname="c" oct="5" dur="2"/>
+                            </layer>
+                            </staff>
+                            <staff n="2">
+                            <layer n="1">
+                            <note pname="a" oct="4" dur="1"/>
+                            <rest dur="4"/>
+                            <note pname="c" oct="5" dur="4"/>
+                            </layer>
+                            </staff>
+                            <staff n="3">
+                            <layer n="1">
+                               <note pname="e" oct="3" dur="4" tie="i"/>
+                               <note pname="f" oct="3" dur="8" tie="t"/>
+                               <note pname="f" oct="3" dur="8"/>
+                               <note pname="f" oct="3" dur="2" tie="i"/>
+                               <note pname="e" oct="3" dur="2" tie="t"/>
+                            </layer>
+                            </staff>
+                            <staff n="4">
+                            <layer n="1">
+                              <note pname="a" oct="2" dur="4" dots="1"/>
+                              <note pname="a" oct="2" dur="8"/>
+                              <note pname="a" oct="2" dur="2"/>
+                              <note pname="a" oct="2" dur="2"/>
+                            </layer>
+                            </staff>
+                            </measure>
+
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
