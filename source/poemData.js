@@ -3,7 +3,7 @@ const path = require('path');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-const poemsDirectory = path.join("./_includes/poems");
+const poemsDirectory = path.join("./poems");
 
 async function extractPoemAttributes() {
     try {

@@ -4,7 +4,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("source/images");
     eleventyConfig.addPassthroughCopy("source/music");
     eleventyConfig.addPassthroughCopy("source/style.css");
-    eleventyConfig.addPassthroughCopy("source/_includes/poems/*.html");
+    eleventyConfig.addPassthroughCopy("source/poems");
     eleventyConfig.addPlugin(jsx);
 
 
