@@ -23,6 +23,7 @@
    </facsimile>
    <text>
       <body>
+         <div>
          <head>"THE RIDDLE"</head>
          <lg>
             <l enjamb="no"><rs type="theme" subtype="white">White men’s children</rs> spread over the earth—</l>
@@ -37,6 +38,7 @@
             <l enjamb="no"><rs type="theme" subtype="white">White men’s children</rs> <rs type="theme" subtype="black">in black men’s skin</rs>.</l>
          </lg>
          <byline>-Georgia Douglas Johnson</byline>
+         </div>
       </body>
    </text>
 </TEI>

@@ -21,6 +21,8 @@
    </facsimile>
    <text>
       <body>
+         <div>
+                 <head>"LADY LADY"</head>
          <lg>
             <l enjamb="no">Lady, Lady, I saw your face,</l>
             <l enjamb="no">Dark as night withholding a star.</l>
@@ -41,7 +43,7 @@
             <l enjamb="no">Were the tongues of flame the ancients knew,</l>
             <l enjamb="no">Where the good God sits to spangle through.</l>
          </lg>
-
+         </div>
       </body>
    </text>
 </TEI>
