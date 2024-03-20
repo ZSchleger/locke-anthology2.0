@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/poemStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poemStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poemStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/poemStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_minstrel_man.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_minstrel_man.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +42,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "18.18.2",
-    "javascript.nodejs.core.library.typings.version": "18.18.2",
+    "javascript.nodejs.core.library.configured.version": "21.1.0",
+    "javascript.nodejs.core.library.typings.version": "20.11.30",
     "last_opened_file_path": "C:/Users/zachs/Documents/digit/GitHubDigit/locke-anthology/docs/collection_tei.css",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,6 +71,7 @@
       <workItem from="1710344267269" duration="9747000" />
       <workItem from="1710875678435" duration="5244000" />
       <workItem from="1710959419599" duration="1634000" />
+      <workItem from="1710968849885" duration="848000" />
     </task>
     <servers />
   </component>
