@@ -4,7 +4,7 @@ module.exports = () => {
     let authorsSet = new Set(poemAttributes.map(poem => poem.author));
     let authors = Array.from(authorsSet).map(author => ({
         original: author,
-        withSpaces: author.replace(/([A-Z])/g, ' $1')
+        withSpaces: author.replaceAll('_', ' ')
     }));
 
 
