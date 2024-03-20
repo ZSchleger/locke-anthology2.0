@@ -25,12 +25,12 @@
             </xsl:variable>
             
             <xsl:result-document method="xhtml" html-version="5" omit-xml-declaration="yes" 
-                include-content-type="no" href="source/_includes/poems/{$filename}.html">
+                include-content-type="no" href="source/poems/{$filename}.html">
                 
                 <!--Your code goes here for processing the poems. -->
                 
                 
-                <section id="{$filename ! replace(., '^.+?_','')}" class="{//titleStmt/author ! replace(., 'é', 'e')! replace(., ' ' ,'')}">
+                <section id="{$filename ! replace(., '^.+?_','')}" class="{//titleStmt/author ! replace(., 'é', 'e')! replace(., ' ' ,'_')}">
                     <xsl:apply-templates select="TEI"/>
                 </section>
               
@@ -48,9 +48,10 @@
    
     
     <xsl:template match="head">
-        <h2><a id="{head}">
-            <xsl:apply-templates/>
-        </a></h2>
+
+        <h2>
+            <xsl:value-of select="replace(., '&quot;', '') ! upper-case(.)"/>
+        </h2>
     </xsl:template>
     
     <xsl:template match="lg">
