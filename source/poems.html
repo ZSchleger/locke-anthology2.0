@@ -17,7 +17,8 @@ permalink: "poems.html"
 <div id="poemCollection">
     {% for poem in poemAttributes %}
     <div class="poem" data-author="{{ poem.author }}">
-        <iframe src="{{ poem.filePath }}"  width="100%" height="300px"></iframe>
+        {{ poem.filePath }}
+
     </div>
     </div>
     {% endfor %}
@@ -42,7 +43,7 @@ permalink: "poems.html"
         const urlEnd = "/mode/1up?view=theater";
         let minPage = null;
 
-        poemAttributes.forEach(poem => {
+        poems.forEach(poem => {
             if (poem.author === authorName && (minPage === null || poem.page < minPage)) {
                 minPage = poem.page;
             }
