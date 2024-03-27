@@ -42,14 +42,6 @@ permalink: "poems.html"
         const urlEnd = "/mode/1up?view=theater";
         let minPage = null;
 
-        poems.forEach(poem => {
-            if (poem.getAttribute('data-author') === authorName) {
-                poem.style.display = 'block';
-            } else {
-                poem.style.display = 'none';
-            }
-        });
-
         poemAttributes.forEach(poem => {
             if (poem.author === authorName && (minPage === null || poem.page < minPage)) {
                 minPage = poem.page;
