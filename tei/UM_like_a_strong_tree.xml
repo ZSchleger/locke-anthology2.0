@@ -12,12 +12,12 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Pg. 134, Half Page</p>
+            <p>Pg. 134, Bottom Half Page</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <facsimile>
-      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/134/mode/2up"/>
+   <facsimile facs="140">
+      <graphic url="https://archive.org/details/newnegrointerpre00unse/page/140/mode/2up"/>
    </facsimile>
    <text>
       <body>

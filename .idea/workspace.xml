@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_site/poems.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_a_brown_girl_dead.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_a_brown_girl_dead.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_a_brown_girl_dead/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_a_brown_girl_dead/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_dream_variation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_dream_variation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_dream_variation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_dream_variation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_enchantment.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_enchantment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_enchantment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_enchantment/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_georgia_dusk.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_georgia_dusk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_georgia_dusk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_georgia_dusk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_minstrel_man.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_minstrel_man.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_minstrel_man/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_minstrel_man/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_our_land.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_our_land.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_our_land/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_our_land/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_she_of_the_dancing_feet_sings.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_she_of_the_dancing_feet_sings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_she_of_the_dancing_feet_sings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_she_of_the_dancing_feet_sings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_tableau.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_tableau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_tableau/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_tableau/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_the_day_breakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_the_day_breakers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_the_day_breakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_the_day_breakers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_the_negro_speaks_of_rivers.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_the_negro_speaks_of_rivers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_the_negro_speaks_of_rivers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_the_negro_speaks_of_rivers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_the_riddle.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_the_riddle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_the_riddle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_the_riddle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_to_a_brown_boy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_to_a_brown_boy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_to_a_brown_boy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_to_a_brown_boy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_to_a_brown_girl.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_to_a_brown_girl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_to_a_brown_girl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_to_a_brown_girl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_tropics_in_new_york.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_tropics_in_new_york.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/Q_tropics_in_new_york/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/Q_tropics_in_new_york/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_Russian_Cathedral.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_Russian_Cathedral.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_Russian_Cathedral/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_Russian_Cathedral/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_an_earth_song.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_an_earth_song.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_an_earth_song/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_an_earth_song/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_baptism.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_baptism.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_baptism/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_baptism/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_escape.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_escape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_escape/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_escape/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_fruit_of_the_flower.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_fruit_of_the_flower.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_fruit_of_the_flower/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_fruit_of_the_flower/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_harlem_wine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_harlem_wine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_harlem_wine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_harlem_wine/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_i_too.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_i_too.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_i_too/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_i_too/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_in_memory_of_colonel_charles_young.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_in_memory_of_colonel_charles_young.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_in_memory_of_colonel_charles_young/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_in_memory_of_colonel_charles_young/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_lady_lady.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_lady_lady.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_lady_lady/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_lady_lady/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_like_a_strong_tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_like_a_strong_tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_like_a_strong_tree/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_like_a_strong_tree/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_poem.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_poem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_poem/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_poem/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_song.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_song.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_song/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_song/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_song_of_the_son.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_song_of_the_son.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_song_of_the_son/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_song_of_the_son/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_the_black_finger.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_the_black_finger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_the_black_finger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_the_black_finger/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_the_creation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_the_creation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_the_creation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_the_creation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_the_ordeal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_the_ordeal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_the_ordeal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_the_ordeal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_to_samuel_coleridge_taylor_upon_hearing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_to_samuel_coleridge_taylor_upon_hearing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_white_houses.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_white_houses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_white_houses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_white_houses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_youth.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_youth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_youth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_youth/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleXSL.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/sampleXSL.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/poemAttributes.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/poemAttributes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/poemData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_a_brown_girl_dead.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_a_brown_girl_dead.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_dream_variation.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_dream_variation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_enchantment.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_enchantment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_georgia_dusk.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_georgia_dusk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_minstrel_man.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_minstrel_man.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_our_land.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_our_land.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_she_of_the_dancing_feet_sings.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_she_of_the_dancing_feet_sings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_tableau.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_tableau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_the_day_breakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_the_day_breakers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_the_negro_speaks_of_rivers.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_the_negro_speaks_of_rivers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_the_riddle.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_the_riddle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_to_a_brown_boy.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_to_a_brown_boy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_to_a_brown_girl.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_to_a_brown_girl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/Q_tropics_in_new_york.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/Q_tropics_in_new_york.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_Russian_Cathedral.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_Russian_Cathedral.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_an_earth_song.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_an_earth_song.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_baptism.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_baptism.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_escape.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_escape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_fruit_of_the_flower.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_fruit_of_the_flower.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_harlem_wine.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_harlem_wine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_i_too.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_i_too.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_in_memory_of_colonel_charles_young.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_in_memory_of_colonel_charles_young.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_lady_lady.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_lady_lady.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_like_a_strong_tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_like_a_strong_tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_poem.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_poem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_song.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_song.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_song_of_the_son.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_song_of_the_son.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_the_black_finger.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_the_black_finger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_the_creation.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_the_creation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_the_ordeal.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_the_ordeal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_white_houses.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_white_houses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/poems/UM_youth.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_youth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_a_brown_girl_dead.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_a_brown_girl_dead.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_dream_variation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_dream_variation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_enchantment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_enchantment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_georgia_dusk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_georgia_dusk.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_minstrel_man.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_minstrel_man.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_our_land.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_our_land.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_she_of_the_dancing_feet_sings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_she_of_the_dancing_feet_sings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_tableau.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_tableau.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_the_day_breakers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_the_day_breakers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_the_negro_speaks_of_rivers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_the_negro_speaks_of_rivers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_the_riddle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_the_riddle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_to_a_brown_boy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_to_a_brown_boy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_to_a_brown_girl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_to_a_brown_girl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/Q_tropics_in_new_york.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/Q_tropics_in_new_york.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_Russian_Cathedral.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_Russian_Cathedral.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_an_earth_song.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_an_earth_song.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_baptism.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_baptism.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_escape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_escape.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_fruit_of_the_flower.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_fruit_of_the_flower.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_harlem_wine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_harlem_wine.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_i_too.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_i_too.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_in_memory_of_colonel_charles_young.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_in_memory_of_colonel_charles_young.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_lady_lady.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_lady_lady.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_like_a_strong_tree.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_like_a_strong_tree.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_poem.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_poem.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_song.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_song.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_song_of_the_son.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_song_of_the_son.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_the_black_finger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_the_black_finger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_the_creation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_the_creation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_the_ordeal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_the_ordeal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_to_samuel_coleridge_taylor_upon_hearing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_to_samuel_coleridge_taylor_upon_hearing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_white_houses.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_white_houses.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tei/UM_youth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_youth.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2c3byb4NvnRtnJkslYVf6huRdCl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.18.2&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.18.2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zachs/Documents/digit/GitHubDigit/locke-anthology/docs/collection_tei.css&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="" />
+      <created>1707343464467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707343464467</updated>
+      <workItem from="1707343465506" duration="516000" />
+      <workItem from="1707848180485" duration="12162000" />
+      <workItem from="1708536370488" duration="2477000" />
+      <workItem from="1708541237134" duration="9413000" />
+      <workItem from="1709139242935" duration="11578000" />
+      <workItem from="1710276068584" duration="386000" />
+      <workItem from="1710344267269" duration="9747000" />
+      <workItem from="1710875678435" duration="5244000" />
+      <workItem from="1710959419599" duration="7486000" />
+      <workItem from="1711556318693" duration="10505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

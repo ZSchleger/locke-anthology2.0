@@ -20,7 +20,8 @@ async function extractPoemAttributes() {
             if (section) {
                 const title = section.getAttribute('id');
                 const author = section.getAttribute('class');
-                poemAttributes.push({ title, author, filePath });
+                const page = section.getAttribute('data-page')
+                poemAttributes.push({ title, author, page, filePath });
             }
         }
 

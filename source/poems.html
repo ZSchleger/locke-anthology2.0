@@ -10,10 +10,10 @@ permalink: "poems.html"
     {% endfor %}
 </div>
 
-<iframe
-        src="https://archive.org/details/newnegrointerpre00unse/page/140/mode/1up?view=theater"
-        width="560" height="900"
-></iframe>
+<div id="archiveIframeContainer">
+    <iframe id="archiveIframe" width="560" height="900" style="display:none;"></iframe>
+</div>
+
 <div id="poemCollection">
     {% for poem in poemAttributes %}
     <div class="poem" data-author="{{ poem.author }}">
@@ -27,6 +27,8 @@ permalink: "poems.html"
     function filterPoems(author) {
         console.log(`Filter Author Names`);
     }
+
+
     function filterPoems(authorName) {
         const poems = document.querySelectorAll('.poem');
         poems.forEach(poem => {
@@ -36,5 +38,33 @@ permalink: "poems.html"
                 poem.style.display = 'none';
             }
         });
+        const urlBeginning = "https://archive.org/details/newnegrointerpre00unse/page/";
+        const urlEnd = "/mode/1up?view=theater";
+        let minPage = null;
+
+        poems.forEach(poem => {
+            if (poem.getAttribute('data-author') === authorName) {
+                poem.style.display = 'block';
+            } else {
+                poem.style.display = 'none';
+            }
+        });
+
+        poemAttributes.forEach(poem => {
+            if (poem.author === authorName && (minPage === null || poem.page < minPage)) {
+                minPage = poem.page;
+            }
+        });
+
+        if (minPage !== null) {
+            const iframeUrl = `${urlBeginning}${minPage}${urlEnd}`;
+            document.getElementById('archiveIframe').src = iframeUrl;
+            document.getElementById('archiveIframe').style.display = 'block';
+        } else {
+            document.getElementById('archiveIframe').style.display = 'none';
+        }
+
     }
+
+
 </script>
