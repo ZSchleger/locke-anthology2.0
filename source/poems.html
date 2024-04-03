@@ -15,11 +15,9 @@ permalink: "poems.html"
 </div>
 
 <div id="poemCollection">
-    {% for poem in poemAttributes %}
+    {% for poem in poemDisplay %}
     <div class="poem" data-author="{{ poem.author }}">
-        {{ poem.filePath }}
-
-    </div>
+        {{ poem.content }}
     </div>
     {% endfor %}
 </div>
@@ -27,6 +25,17 @@ permalink: "poems.html"
 <script>
     function filterPoems(author) {
         console.log(`Filter Author Names`);
+    }
+
+    function filterPoems(iframeUrlsByAuthor) {
+        const poems = document.querySelectorAll('.poem');
+        const iframeUrl = iframeUrlsByAuthor[authorName];
+        if (iframeUrl) {
+            document.getElementById('archiveIframe').src = iframeUrl;
+            document.getElementById('archiveIframe').style.display = 'block';
+        } else {
+            document.getElementById('archiveIframe').style.display = 'none';
+        }
     }
 
 
@@ -39,24 +48,7 @@ permalink: "poems.html"
                 poem.style.display = 'none';
             }
         });
-        const urlBeginning = "https://archive.org/details/newnegrointerpre00unse/page/";
-        const urlEnd = "/mode/1up?view=theater";
-        let minPage = null;
-
-        poems.forEach(poem => {
-            if (poem.author === authorName && (minPage === null || poem.page < minPage)) {
-                minPage = poem.page;
-            }
-        });
-
-        if (minPage !== null) {
-            const iframeUrl = `${urlBeginning}${minPage}${urlEnd}`;
-            document.getElementById('archiveIframe').src = iframeUrl;
-            document.getElementById('archiveIframe').style.display = 'block';
-        } else {
-            document.getElementById('archiveIframe').style.display = 'none';
-        }
-
+        
     }
 
 

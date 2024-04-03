@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_data/iframeDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_data/poemDisplay.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/poems.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/poems/UM_youth.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_youth.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/poems/UM_youth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_youth/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/poemAttributes.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/poemAttributes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_to_samuel_coleridge_taylor_upon_hearing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems/UM_to_samuel_coleridge_taylor_upon_hearing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/UM_to_samuel_coleridge_taylor_upon_hearing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/poems.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/UM_youth.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/UM_youth.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_to_samuel_coleridge_taylor_upon_hearing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_to_samuel_coleridge_taylor_upon_hearing.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_youth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tei/UM_youth.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1710344267269" duration="9747000" />
       <workItem from="1710875678435" duration="5244000" />
       <workItem from="1710959419599" duration="7486000" />
-      <workItem from="1711556318693" duration="15512000" />
+      <workItem from="1711556318693" duration="24183000" />
     </task>
     <servers />
   </component>

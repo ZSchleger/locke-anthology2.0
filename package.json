@@ -20,6 +20,7 @@
   "dependencies": {
     "clean-css": "^5.3.3",
     "eleventy-plugin-static-jsx": "^1.0.8",
+    "fs": "^0.0.1-security",
     "jsdom": "^24.0.0",
     "static-jsx": "^1.0.1"
   }
