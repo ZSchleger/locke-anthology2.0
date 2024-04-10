@@ -11,7 +11,7 @@ permalink: "poems.html"
 </div>
 
 <div id="archiveIframeContainer">
-    <iframe id="archiveIframe" width="560" height="900" style="display:none;"></iframe>
+    <iframe id="archiveIframe" width="560" height="900"></iframe>
 </div>
 
 <div id="poemCollection">
@@ -23,23 +23,40 @@ permalink: "poems.html"
 </div>
 
 <script>
-    function filterPoems(author) {
-        console.log(`Filter Author Names`);
-    }
-
-    function filterPoems(iframeUrlsByAuthor) {
+    function iframeUrl(authorName) {
         const poems = document.querySelectorAll('.poem');
-        const iframeUrl = iframeUrlsByAuthor[authorName];
-        if (iframeUrl) {
-            document.getElementById('archiveIframe').src = iframeUrl;
+        let lowestPage = Infinity;
+
+        poems.forEach(poem => {
+            if (poem.getAttribute('data-author') === authorName) {
+                console.log('If one working');
+                let pageStr = poem.page;
+                console.log(pageStr);
+                let page = parseInt(pageStr);
+                if (isNaN(page)) {
+                    page = Number(page);
+                    console.log('Page:',page);
+                }
+                if ( page < lowestPage) {
+                    console.log('If two working');
+                    lowestPage = page;
+                }
+            }
+        });
+
+        if (lowestPage !== Infinity) {
+            const url = 'https://archive.org/details/newnegrointerpre00unse/page/' + lowestPage + '/mode/1up?view=theater';
+            alert('Constructed URL: ' + url);
+            document.getElementById('archiveIframe').src = url;
             document.getElementById('archiveIframe').style.display = 'block';
         } else {
-            document.getElementById('archiveIframe').style.display = 'none';
+            console.log('No valid page number found.');
         }
     }
 
 
     function filterPoems(authorName) {
+        console.log('filterPoems called with author:', authorName);
         const poems = document.querySelectorAll('.poem');
         poems.forEach(poem => {
             if (poem.getAttribute('data-author') === authorName) {
@@ -48,8 +65,6 @@ permalink: "poems.html"
                 poem.style.display = 'none';
             }
         });
-        
+        iframeUrl(authorName);
     }
-
-
 </script>
