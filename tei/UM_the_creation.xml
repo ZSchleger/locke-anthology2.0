@@ -12,7 +12,8 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Pg. 138-141, Four Pages. Artwork present above the text of the poem.</p>
+            <bibl>Pg. 138-141, Four Pages. Artwork present above the text of the poem.</bibl>
+            <bibl>Art present <ref target="art144.PNG"/></bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>

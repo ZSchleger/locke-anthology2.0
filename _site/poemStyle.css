@@ -80,6 +80,20 @@ figure img {
     padding: 20px;
 }
 
+#container {
+    display: flex;
+}
+
+#archiveIframeContainer {
+    flex: 1;
+}
+
+
+#poemCollection {
+    flex: 1;
+}
+
+
 span[title="alliteration"] {
     color: #ff0000;
 }

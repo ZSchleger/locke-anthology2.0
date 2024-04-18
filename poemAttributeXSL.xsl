@@ -34,6 +34,7 @@
                     id="{$filename ! replace(., '^.+?_','')}" 
                     class="{//titleStmt/author ! replace(., 'é', 'e')! replace(., ' ' ,'_')}"
                     data-page="{//facsimile/@facs}"
+                    data-art="{//sourceDesc/bibl/ref/@target}"
                     >
                     <!-- 2024-03-20 ebb: Adjusted the section element to add an HTML data attribute.  -->
                     <xsl:apply-templates select="TEI"/>

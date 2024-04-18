@@ -13,7 +13,8 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Pg. 146, Top Half Page</p>
+            <bibl>Pg. 146, Top Half Page</bibl>
+            <bibl>Music present <ref target="upon_hearing_his.wav"/></bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>

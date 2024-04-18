@@ -13,7 +13,8 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Pg. 149-150, 2 Pages.</p>
+            <bibl>Pg. 149-150, 2 Pages.</bibl>
+            <bibl>Art present <ref target="art156.PNG"/></bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>

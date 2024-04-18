@@ -12,7 +12,8 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Pg. 132, one page.</p>
+            <bibl>Pg. 132, one page.</bibl>
+            <bibl>Art present <ref target="art137.PNG"/></bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
