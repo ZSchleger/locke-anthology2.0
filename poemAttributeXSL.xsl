@@ -48,7 +48,7 @@
     <xsl:template match="TEI">
 
         
-        <xsl:apply-templates select="descendant::div"/>
+        <xsl:apply-templates select="descendant::div[not(@type='part')]"/>
         
     </xsl:template>
    
