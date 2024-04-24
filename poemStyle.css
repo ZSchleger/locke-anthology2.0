@@ -207,3 +207,7 @@ span[title="B"] {
     border-style: groove;
     border-color: #ff6f00;
 }
+
+span {
+    display: inline;
+}
