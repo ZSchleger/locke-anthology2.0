@@ -4,6 +4,7 @@ const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
 const poemsDirectory = path.join("./poems");
+const dataDirectory = path.join("./_data");
 
 async function extractPoemAttributes() {
     try {
@@ -27,7 +28,8 @@ async function extractPoemAttributes() {
         }
 
         console.log(poemAttributes);
-        fs.writeFileSync('poemAttributes.json', JSON.stringify(poemAttributes, null, 2), 'utf-8');
+        const jsonFilePath = path.join(dataDirectory, 'poemAttributes.json');
+        fs.writeFileSync(jsonFilePath, JSON.stringify(poemAttributes, null, 2), 'utf-8');
     } catch (error) {
         console.error('Error reading poem files:', error);
     }

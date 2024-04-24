@@ -1,10 +1,52 @@
 <h1>Documentation</h1>
 
+<h2> How to Run </h2>
+This site requires the use of Node and Eleventy
+
+### [Instaling Node](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs):
+
+- To run the site you first need to download node, which can be done at this link: https://nodejs.org/en/download
+
+### [Instaling Eleventy](https://www.11ty.dev/docs/):
+ 
+ - Once node is installed you must run these node commands: 
+
+`npm init -y `
+
+- This installs the package.json that Eleventy requires
+
+`npm install @11ty/eleventy --save-dev`
+
+- This installs Eleventy itself on the project
+
+`npx @11ty/eleventy`
+
+- This is used to run Eleventy
+
+- If everything was successful you should see this after running eleventy
+
+`
+npx @11ty/eleventy
+[11ty] Wrote 0 files in 0.03 seconds (v2.0.1)
+`
+### Generating Poem HTML Files:
+
+- The poems are generating by running the poemHtml.xsl file
+- This file can be ran over any of the poem files, and it will run over the entire collection
+
+### Populating Poem Attributes:
+
+- Running poemDaja.js will create the poemAttributes.json file inside the _data folder
+- This file contains the title, author, file path, and potential art for each poem file
+- variables from this file or any other file in the _data folder can be simply be retrieved by using the variable name, 
+  with no need to call the file itself 
+
+
 <h2> Changes between version 1 and version 2 </h2>
 
--The main difference between the two versions of the sites is
+- The main difference between the two versions of the sites is
  that it is now being made with Eleventy/11ty.
--Another major change to the site is way the poems are displayed.
+- Another major change to the site is way the poems are displayed.
  Poems can now be filtered based on the author, and can be viewed beside
  the original book.
 
