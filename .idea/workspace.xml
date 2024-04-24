@@ -7,10 +7,8 @@
     <list default="true" id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/poemStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poemStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/poems/12_Russian_Cathedral.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/12_Russian_Cathedral.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/poems/12_Russian_Cathedral/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems/12_Russian_Cathedral/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/poemStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/poemStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/12_Russian_Cathedral.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/12_Russian_Cathedral.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <workItem from="1710959419599" duration="7486000" />
       <workItem from="1711556318693" duration="31831000" />
       <workItem from="1712764648292" duration="14150000" />
-      <workItem from="1713459149579" duration="20819000" />
+      <workItem from="1713459149579" duration="21816000" />
     </task>
     <servers />
   </component>
