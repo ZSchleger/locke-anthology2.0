@@ -27,7 +27,7 @@ ul {
 }
 
 .navbar a:hover {
-    background-color: white;
+    background-color: turquoise;
     color: black;
 }
 
@@ -44,7 +44,7 @@ ul {
 }
 
 .footerLinks a:hover {
-    background-color: white;
+    background-color: turquoise;
     color: black;
 }
 

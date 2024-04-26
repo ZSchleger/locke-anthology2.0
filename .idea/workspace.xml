@@ -6,7 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/music.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/poemStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poemStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poems.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_includes/layout.njk" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/layout.njk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_includes/poemLayout.njk" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/poemLayout.njk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/poemStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/poemStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/style.css" afterDir="false" />
     </list>
@@ -76,7 +85,7 @@
       <workItem from="1710959419599" duration="7486000" />
       <workItem from="1711556318693" duration="31831000" />
       <workItem from="1712764648292" duration="14150000" />
-      <workItem from="1713459149579" duration="21816000" />
+      <workItem from="1713459149579" duration="23316000" />
     </task>
     <servers />
   </component>

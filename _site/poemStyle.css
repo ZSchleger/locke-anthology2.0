@@ -27,7 +27,7 @@ ul {
 }
 
 .navbar a:hover {
-    background-color: white;
+    background-color: turquoise;
     color: black;
 }
 
@@ -44,7 +44,7 @@ ul {
 }
 
 .footerLinks a:hover {
-    background-color: white;
+    background-color: turquoise;
     color: black;
 }
 
@@ -60,7 +60,7 @@ ul {
 }
 
 #authorButtons button:hover {
-    background-color: white;
+    background-color: turquoise;
     color: black;
 }
 
@@ -98,27 +98,27 @@ span[title="alliteration"] {
 }
 
 span[title="assonance"] {
-    color: #ff00f2;
+    color: purple;
 }
 
 span[title="consonance"]{
-    color: #fff200;
+    color: green;
 }
 
 span[title="metaphor"] {
-    color: #91ff00;
+    color: orangered;
 }
 
 span[title="simile"] {
-    color: #00ffa6;
+    color: darkgoldenrod;
 }
 
 span[title="repetition"] {
-    color: #0004ff;
+    color: darkblue;
 }
 
 span[title="personification"] {
-    color: #4c00ff;
+    color: darkslateblue;
 }
 
 
