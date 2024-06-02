@@ -22,7 +22,7 @@
    <text>
       <body>
          <div>
-            <head>"BAPTISM"</head>
+            <head><rs type="theme" subtype="religion">"BAPTISM"</rs></head>
             <lg>
                <l enjamb="no">Into the furnace let me go alone;</l>
                <l enjamb="no">Stay you without in terror of the heat.</l>
