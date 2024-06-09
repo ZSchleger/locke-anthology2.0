@@ -4,80 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/poemAttributes.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/poemAttributes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poemData.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/poemData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/10_white_houses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/11_like_a_strong_tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/12_Russian_Cathedral.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/13_tropics_in_new_york.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/14_georgia_dusk.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/15_song_of_the_son.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/16_the_creation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/17_the_negro_speaks_of_rivers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/18_an_earth_song.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/19_poem.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/1_to_a_brown_girl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/20_youth.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/21_song.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/22_dream_variation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/23_minstrel_man.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/24_our_land.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/25_i_too.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/26_the_day_breakers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/27_to_samuel_coleridge_taylor_upon_hearing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/28_the_ordeal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/29_escape.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/2_to_a_brown_boy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/30_the_riddle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/31_lady_lady.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/32_the_black_finger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/33_enchantment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/3_tableau.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/4_harlem_wine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/5_she_of_the_dancing_feet_sings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/6_a_brown_girl_dead.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/7_fruit_of_the_flower.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/8_in_memory_of_colonel_charles_young.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/9_baptism.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_a_brown_girl_dead.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_dream_variation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_enchantment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_georgia_dusk.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_minstrel_man.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_our_land.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_she_of_the_dancing_feet_sings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_tableau.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_the_day_breakers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_the_negro_speaks_of_rivers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_the_riddle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_to_a_brown_boy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_to_a_brown_girl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/Q_tropics_in_new_york.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_Russian_Cathedral.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_an_earth_song.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_baptism.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_escape.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_fruit_of_the_flower.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_harlem_wine.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_i_too.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_in_memory_of_colonel_charles_young.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_lady_lady.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_like_a_strong_tree.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_poem.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_song.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_song_of_the_son.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_the_black_finger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_the_creation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_the_ordeal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_to_samuel_coleridge_taylor_upon_hearing.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_white_houses.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tei/UM_youth.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xsl/bugFixer.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xsl/distinctAuths-XSL.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xsl/poemHtml.xsl" beforeDir="false" />
-    </list>
+    <list default="true" id="2a64b391-fb90-4c75-9916-b80bdf71f9da" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +72,7 @@
       <workItem from="1711556318693" duration="31831000" />
       <workItem from="1712764648292" duration="14150000" />
       <workItem from="1713459149579" duration="24154000" />
-      <workItem from="1717619525826" duration="2451000" />
+      <workItem from="1717619525826" duration="3036000" />
     </task>
     <servers />
   </component>
