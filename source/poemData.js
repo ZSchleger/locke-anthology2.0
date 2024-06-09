@@ -22,6 +22,7 @@ async function extractPoemAttributes() {
                 const title = section.getAttribute('id');
                 const author = section.getAttribute('class');
                 const page = section.getAttribute('data-page')
+                const num = section.getAttribute('data-num')
                 const art = section.getAttribute('data-art')
                 poemAttributes.push({ title, author, page, filePath, art });
             }

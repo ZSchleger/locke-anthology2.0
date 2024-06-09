@@ -1,233 +1,233 @@
 [
   {
-    "title": "white_houses",
-    "author": "Claude_McKay",
-    "page": "140",
-    "filePath": "poems\\10_white_houses.html",
-    "art": ""
-  },
-  {
-    "title": "like_a_strong_tree",
-    "author": "Claude_McKay",
-    "page": "140",
-    "filePath": "poems\\11_like_a_strong_tree.html",
-    "art": ""
-  },
-  {
-    "title": "Russian_Cathedral",
-    "author": "Claude_McKay",
-    "page": "141",
-    "filePath": "poems\\12_Russian_Cathedral.html",
-    "art": ""
-  },
-  {
-    "title": "tropics_in_new_york",
-    "author": "Claude_McKay",
-    "page": "141",
-    "filePath": "poems\\13_tropics_in_new_york.html",
-    "art": ""
-  },
-  {
-    "title": "georgia_dusk",
-    "author": "Jean_Toomer",
-    "page": "142",
-    "filePath": "poems\\14_georgia_dusk.html",
-    "art": ""
-  },
-  {
-    "title": "song_of_the_son",
-    "author": "Jean_Toomer",
-    "page": "143",
-    "filePath": "poems\\15_song_of_the_son.html",
-    "art": ""
-  },
-  {
-    "title": "the_creation",
-    "author": "James_Weldon_Johnson",
-    "page": "144",
-    "filePath": "poems\\16_the_creation.html",
-    "art": "art144.PNG"
-  },
-  {
-    "title": "the_negro_speaks_of_rivers",
-    "author": "Langston_Hughes",
-    "page": "147",
-    "filePath": "poems\\17_the_negro_speaks_of_rivers.html",
-    "art": ""
-  },
-  {
-    "title": "an_earth_song",
-    "author": "Langston_Hughes",
-    "page": "148",
-    "filePath": "poems\\18_an_earth_song.html",
-    "art": ""
-  },
-  {
-    "title": "poem",
-    "author": "Langston_Hughes",
-    "page": "148",
-    "filePath": "poems\\19_poem.html",
-    "art": ""
-  },
-  {
-    "title": "to_a_brown_girl",
+    "title": "a_brown_girl",
     "author": "Countee_Cullen",
     "page": "133",
-    "filePath": "poems\\1_to_a_brown_girl.html",
+    "filePath": "poems\\01-to_a_brown_girl.html",
     "art": "art132.PNG"
   },
   {
-    "title": "youth",
-    "author": "Langston_Hughes",
-    "page": "148",
-    "filePath": "poems\\20_youth.html",
-    "art": ""
-  },
-  {
-    "title": "song",
-    "author": "Langston_Hughes",
-    "page": "149",
-    "filePath": "poems\\21_song.html",
-    "art": ""
-  },
-  {
-    "title": "dream_variation",
-    "author": "Langston_Hughes",
-    "page": "149",
-    "filePath": "poems\\22_dream_variation.html",
-    "art": ""
-  },
-  {
-    "title": "minstrel_man",
-    "author": "Langston_Hughes",
-    "page": "150",
-    "filePath": "poems\\23_minstrel_man.html",
-    "art": ""
-  },
-  {
-    "title": "our_land",
-    "author": "Langston_Hughes",
-    "page": "150",
-    "filePath": "poems\\24_our_land.html",
-    "art": ""
-  },
-  {
-    "title": "i_too",
-    "author": "Langston_Hughes",
-    "page": "151",
-    "filePath": "poems\\25_i_too.html",
-    "art": ""
-  },
-  {
-    "title": "the_day_breakers",
-    "author": "Arna_Bontemps",
-    "page": "151",
-    "filePath": "poems\\26_the_day_breakers.html",
-    "art": ""
-  },
-  {
-    "title": "to_samuel_coleridge_taylor_upon_hearing",
-    "author": "Georgia_Douglas_Johnson",
-    "page": "152",
-    "filePath": "poems\\27_to_samuel_coleridge_taylor_upon_hearing.html",
-    "art": "upon_hearing_his.wav"
-  },
-  {
-    "title": "the_ordeal",
-    "author": "Georgia_Douglas_Johnson",
-    "page": "152",
-    "filePath": "poems\\28_the_ordeal.html",
-    "art": ""
-  },
-  {
-    "title": "escape",
-    "author": "Georgia_Douglas_Johnson",
-    "page": "153",
-    "filePath": "poems\\29_escape.html",
-    "art": ""
-  },
-  {
-    "title": "to_a_brown_boy",
+    "title": "a_brown_boy",
     "author": "Countee_Cullen",
     "page": "133",
-    "filePath": "poems\\2_to_a_brown_boy.html",
+    "filePath": "poems\\02-to_a_brown_boy.html",
     "art": ""
-  },
-  {
-    "title": "the_riddle",
-    "author": "Georgia_Douglas_Johnson",
-    "page": "153",
-    "filePath": "poems\\30_the_riddle.html",
-    "art": ""
-  },
-  {
-    "title": "lady_lady",
-    "author": "Anne_Spencer",
-    "page": "154",
-    "filePath": "poems\\31_lady_lady.html",
-    "art": ""
-  },
-  {
-    "title": "the_black_finger",
-    "author": "Angelina_Grimke",
-    "page": "154",
-    "filePath": "poems\\32_the_black_finger.html",
-    "art": ""
-  },
-  {
-    "title": "enchantment",
-    "author": "Lewis_Alexander",
-    "page": "155",
-    "filePath": "poems\\33_enchantment.html",
-    "art": "art156.PNG"
   },
   {
     "title": "tableau",
     "author": "Countee_Cullen",
     "page": "134",
-    "filePath": "poems\\3_tableau.html",
+    "filePath": "poems\\03-tableau.html",
     "art": ""
   },
   {
-    "title": "harlem_wine",
+    "title": "wine",
     "author": "Countee_Cullen",
     "page": "134",
-    "filePath": "poems\\4_harlem_wine.html",
+    "filePath": "poems\\04-harlem_wine.html",
     "art": ""
   },
   {
-    "title": "she_of_the_dancing_feet_sings",
+    "title": "of_the_dancing_feet_sings",
     "author": "Countee_Cullen",
     "page": "135",
-    "filePath": "poems\\5_she_of_the_dancing_feet_sings.html",
+    "filePath": "poems\\05-she_of_the_dancing_feet_sings.html",
     "art": ""
   },
   {
-    "title": "a_brown_girl_dead",
+    "title": "brown_girl_dead",
     "author": "Countee_Cullen",
     "page": "135",
-    "filePath": "poems\\6_a_brown_girl_dead.html",
+    "filePath": "poems\\06-a_brown_girl_dead.html",
     "art": ""
   },
   {
-    "title": "fruit_of_the_flower",
+    "title": "of_the_flower",
     "author": "Countee_Cullen",
     "page": "136",
-    "filePath": "poems\\7_fruit_of_the_flower.html",
+    "filePath": "poems\\07-fruit_of_the_flower.html",
     "art": "art137.PNG"
   },
   {
-    "title": "in_memory_of_colonel_charles_young",
+    "title": "memory_of_colonel_charles_young",
     "author": "Countee_Cullen",
     "page": "139",
-    "filePath": "poems\\8_in_memory_of_colonel_charles_young.html",
+    "filePath": "poems\\08-in_memory_of_colonel_charles_young.html",
     "art": ""
   },
   {
     "title": "baptism",
     "author": "Claude_McKay",
     "page": "139",
-    "filePath": "poems\\9_baptism.html",
+    "filePath": "poems\\09-baptism.html",
     "art": ""
+  },
+  {
+    "title": "houses",
+    "author": "Claude_McKay",
+    "page": "140",
+    "filePath": "poems\\10-white_houses.html",
+    "art": ""
+  },
+  {
+    "title": "a_strong_tree",
+    "author": "Claude_McKay",
+    "page": "140",
+    "filePath": "poems\\11-like_a_strong_tree.html",
+    "art": ""
+  },
+  {
+    "title": "Cathedral",
+    "author": "Claude_McKay",
+    "page": "141",
+    "filePath": "poems\\12-Russian_Cathedral.html",
+    "art": ""
+  },
+  {
+    "title": "in_new_york",
+    "author": "Claude_McKay",
+    "page": "141",
+    "filePath": "poems\\13-tropics_in_new_york.html",
+    "art": ""
+  },
+  {
+    "title": "dusk",
+    "author": "Jean_Toomer",
+    "page": "142",
+    "filePath": "poems\\14-georgia_dusk.html",
+    "art": ""
+  },
+  {
+    "title": "of_the_son",
+    "author": "Jean_Toomer",
+    "page": "143",
+    "filePath": "poems\\15-song_of_the_son.html",
+    "art": ""
+  },
+  {
+    "title": "creation",
+    "author": "James_Weldon_Johnson",
+    "page": "144",
+    "filePath": "poems\\16-the_creation.html",
+    "art": "art144.PNG"
+  },
+  {
+    "title": "negro_speaks_of_rivers",
+    "author": "Langston_Hughes",
+    "page": "147",
+    "filePath": "poems\\17-the_negro_speaks_of_rivers.html",
+    "art": ""
+  },
+  {
+    "title": "earth_song",
+    "author": "Langston_Hughes",
+    "page": "148",
+    "filePath": "poems\\18-an_earth_song.html",
+    "art": ""
+  },
+  {
+    "title": "poem",
+    "author": "Langston_Hughes",
+    "page": "148",
+    "filePath": "poems\\19-poem.html",
+    "art": ""
+  },
+  {
+    "title": "youth",
+    "author": "Langston_Hughes",
+    "page": "148",
+    "filePath": "poems\\20-youth.html",
+    "art": ""
+  },
+  {
+    "title": "song",
+    "author": "Langston_Hughes",
+    "page": "149",
+    "filePath": "poems\\21-song.html",
+    "art": ""
+  },
+  {
+    "title": "variation",
+    "author": "Langston_Hughes",
+    "page": "149",
+    "filePath": "poems\\22-dream_variation.html",
+    "art": ""
+  },
+  {
+    "title": "man",
+    "author": "Langston_Hughes",
+    "page": "150",
+    "filePath": "poems\\23-minstrel_man.html",
+    "art": ""
+  },
+  {
+    "title": "land",
+    "author": "Langston_Hughes",
+    "page": "150",
+    "filePath": "poems\\24-our_land.html",
+    "art": ""
+  },
+  {
+    "title": "too",
+    "author": "Langston_Hughes",
+    "page": "151",
+    "filePath": "poems\\25-i_too.html",
+    "art": ""
+  },
+  {
+    "title": "day_breakers",
+    "author": "Arna_Bontemps",
+    "page": "151",
+    "filePath": "poems\\26-the_day_breakers.html",
+    "art": ""
+  },
+  {
+    "title": "samuel_coleridge_taylor_upon_hearing",
+    "author": "Georgia_Douglas_Johnson",
+    "page": "152",
+    "filePath": "poems\\27-to_samuel_coleridge_taylor_upon_hearing.html",
+    "art": "upon_hearing_his.wav"
+  },
+  {
+    "title": "ordeal",
+    "author": "Georgia_Douglas_Johnson",
+    "page": "152",
+    "filePath": "poems\\28-the_ordeal.html",
+    "art": ""
+  },
+  {
+    "title": "escape",
+    "author": "Georgia_Douglas_Johnson",
+    "page": "153",
+    "filePath": "poems\\29-escape.html",
+    "art": ""
+  },
+  {
+    "title": "riddle",
+    "author": "Georgia_Douglas_Johnson",
+    "page": "153",
+    "filePath": "poems\\30-the_riddle.html",
+    "art": ""
+  },
+  {
+    "title": "lady",
+    "author": "Anne_Spencer",
+    "page": "154",
+    "filePath": "poems\\31-lady_lady.html",
+    "art": ""
+  },
+  {
+    "title": "black_finger",
+    "author": "Angelina_Grimke",
+    "page": "154",
+    "filePath": "poems\\32-the_black_finger.html",
+    "art": ""
+  },
+  {
+    "title": "enchantment",
+    "author": "Lewis_Alexander",
+    "page": "155",
+    "filePath": "poems\\33-enchantment.html",
+    "art": "art156.PNG"
   }
 ]
