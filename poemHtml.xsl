@@ -57,7 +57,14 @@
     <xsl:template match="head">
 
         <h2>
-            <xsl:value-of select="replace(., '&quot;', '') ! upper-case(.)"/>
+            <xsl:choose>
+                <xsl:when test="rs">
+                    <xsl:apply-templates/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="replace(., '[&quot;||“]', '') ! upper-case(.)"/>
+                </xsl:otherwise>
+            </xsl:choose>
         </h2>
     </xsl:template>
     
@@ -83,9 +90,18 @@
 
 
     <xsl:template match="rs">       
-        <span class ="{@type}" title="{@subtype}">
-            <xsl:apply-templates/>
-        </span>
+        <xsl:choose>
+            <xsl:when test="parent::head">
+                <span class ="{@type}" title="{@subtype}">
+                    <xsl:value-of select="replace(., '[&quot;|“|”]', '') ! upper-case(.)"/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span class ="{@type}" title="{@subtype}">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     

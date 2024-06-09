@@ -22,7 +22,7 @@
    <text>
       <body>
          <div>
-            <head>"A <rs type="theme" subtype="black">Brown</rs> Girl Dead"</head>
+            <head><rs type="theme" subtype="black">"A Brown Girl Dead"</rs></head>
             <lg>
                <l enjamb="no">With two <rs type="theme" subtype="white">white</rs> roses on <rs type="POV" subtype="thirdPerson">her</rs>
                   <rhyme label="A">breasts</rhyme>,</l>
