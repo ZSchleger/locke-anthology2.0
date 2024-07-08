@@ -4,29 +4,22 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Upon Hearing His</title>
                 <respStmt>
-                    <resp>Composed by:</resp>
-                    <persName role="creator" codedval="118611666" auth="GND"
-                        auth.uri="http://d-nb.info/gnd/">Robert Schumann</persName>
                     <resp>Machine-readable transcription by:</resp>
-                    <persName role="encoder">John Doe</persName>
+                    <persName role="encoder">Zach Schleger</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt>
-                <unpub>Incomplete!</unpub>
-            </pubStmt>
         </fileDesc>
         <workList>
             <work>
-                <title></title>
+                <title>Upon Hearing His</title>
                 <composer>
                     <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND"
                         >Samuel Coleridge Taylor</persName>
                 </composer>
                 <key pname="f" mode="major">C major</key>
                 <meter count="3" unit="4"/>
-                <creation>Year of composition<date>1680</date> </creation>
             </work>
         </workList>
     </meiHead>

@@ -31,14 +31,15 @@ npx @11ty/eleventy
 `
 ### Generating Poem HTML Files:
 
-- The poems are generating by running the poemHtml.xsl file
-- This file can be ran over any of the poem files, and it will run over the entire collection
+- The poems are generating by running the poemHtml.xsl file in an XML editor such as Oxygen
+- This file can be ran over any of the poem TEI files, and it will run over the entire collection
+- The poem HTML files will be generated in the Poems folder in the Source folder
 
 ### Populating Poem Attributes:
 
-- Running poemDaja.js will create the poemAttributes.json file inside the _data folder
+- Running poemDaja.js will create the poemAttributes.json file inside the data folder
 - This file contains the title, author, file path, and potential art for each poem file
-- variables from this file or any other file in the _data folder can be simply be retrieved by using the variable name, 
+- variables from this file or any other file in the data folder can be simply be retrieved by using the variable name, 
   with no need to call the file itself 
 
 

@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f43afa24-b6ab-49ae-ab06-9d6a0a2fc009" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poemHtml.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/poemHtml.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_data/poemAttributes.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/poemAttributes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poemData.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/poemData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/01-to_a_brown_girl.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/01-to_a_brown_girl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/02-to_a_brown_boy.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/02-to_a_brown_boy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/03-tableau.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/03-tableau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/04-harlem_wine.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/04-harlem_wine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/05-she_of_the_dancing_feet_sings.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/05-she_of_the_dancing_feet_sings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/06-a_brown_girl_dead.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/06-a_brown_girl_dead.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/07-fruit_of_the_flower.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/07-fruit_of_the_flower.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/08-in_memory_of_colonel_charles_young.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/08-in_memory_of_colonel_charles_young.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/09-baptism.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/09-baptism.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/10-white_houses.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/10-white_houses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/11-like_a_strong_tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/11-like_a_strong_tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/12-Russian_Cathedral.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/12-Russian_Cathedral.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/13-tropics_in_new_york.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/13-tropics_in_new_york.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/14-georgia_dusk.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/14-georgia_dusk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/15-song_of_the_son.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/15-song_of_the_son.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/16-the_creation.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/16-the_creation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/17-the_negro_speaks_of_rivers.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/17-the_negro_speaks_of_rivers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/18-an_earth_song.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/18-an_earth_song.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/19-poem.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/19-poem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/20-youth.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/20-youth.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/21-song.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/21-song.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/22-dream_variation.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/22-dream_variation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/23-minstrel_man.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/23-minstrel_man.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/24-our_land.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/24-our_land.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/25-i_too.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/25-i_too.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/26-the_day_breakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/26-the_day_breakers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/27-to_samuel_coleridge_taylor_upon_hearing.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/27-to_samuel_coleridge_taylor_upon_hearing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/28-the_ordeal.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/28-the_ordeal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/29-escape.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/29-escape.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/30-the_riddle.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/30-the_riddle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/31-lady_lady.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/31-lady_lady.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/32-the_black_finger.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/32-the_black_finger.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/poems/33-enchantment.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/poems/33-enchantment.html" afterDir="false" />
-    </list>
+    <list default="true" id="f43afa24-b6ab-49ae-ab06-9d6a0a2fc009" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717947332581</updated>
-      <workItem from="1717947344293" duration="743000" />
+      <workItem from="1717947344293" duration="1825000" />
     </task>
     <servers />
   </component>
